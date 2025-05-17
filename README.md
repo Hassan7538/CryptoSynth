@@ -72,10 +72,6 @@ Install necessary dependencies manually:
 - `torch`, `transformers`, `numpy`, `pandas`, `sklearn`
 - `matplotlib`, `tqdm`, `xgboost`, `shap`
 
-### Documentation
-Refer to the following:
-- [CryptoSynth_report.pdf](documentation/CryptoSynth_report.pdf): Project background, methodology, and results.
-
 
 ## Contributions
 We welcome feedback and contributions! Feel free to fork, star 🌟, and share.
